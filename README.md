@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Driss</h1>
-<h3 align="center">A passionate graphic desinger frontend developer</h3>
+<h3 align="center">A passionate graphic desinger and frontend developer</h3>
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
