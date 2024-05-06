@@ -6,13 +6,9 @@
 </p>
 
 - 🔭 I’m currently working on **socialMediaDesign**
-
 - 🌱 I’m currently learning **Reactjs**
-
 - 👨‍💻 All of my projects are available at [https://inquisitive-pithivier-7527fe.netlify.app](https://inquisitive-pithivier-7527fe.netlify.app)
-
 - 💬 Ask me about **react, css, javaScript and node.js**
-
 - 📫 How to reach me **elyaagoubi.works@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
@@ -43,6 +39,17 @@
 <a href="https://twitter.com/https://twitter.com/driss_yaagoubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/driss_yaagoubi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/driss-el-yaagoubi-420654207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/driss-el-yaagoubi-420654207/" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=driely01&show_icons=true&locale=en&layout=compact" alt="driely01" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=driely01&show_icons=true&locale=en" alt="driely01" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=driely01&" alt="driely01" />
+</p>
+
 <!--
 **Drisse1/Drisse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
