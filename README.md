@@ -1,8 +1,7 @@
-### Hi there 👋
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
+<h2 align="center">Hi 👋, I'm Driss</h1>
+<h3 align="center">A passionate graphic desinger frontend developer</h3>
 
-<h1 align="center">Hi 👋, I'm Driss</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
 
 - 🔭 I’m currently working on **socialMediaDesign**
 
