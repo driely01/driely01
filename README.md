@@ -50,10 +50,8 @@
 <p align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=driely01&show_icons=true&locale=en&layout=compact" alt="driely01" />
 </p>
-<p align="center" width="300px">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=driely01&show_icons=true&locale=en" alt="driely01" />
-</p>
 <p align="center">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=driely01&show_icons=true&locale=en" alt="driely01" />
   <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=driely01&" alt="driely01" />
 </p>
 
