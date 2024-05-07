@@ -5,7 +5,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
 </p>
 
-- 🔭 I’m currently working on **socialMediaDesign**
+- 🔭 I’m currently working on **the web project**
 - 🌱 I’m currently learning **Reactjs**
 - 👨‍💻 All of my projects are available at [https://inquisitive-pithivier-7527fe.netlify.app](https://inquisitive-pithivier-7527fe.netlify.app)
 - 💬 Ask me about **react, css, javaScript and node.js**
