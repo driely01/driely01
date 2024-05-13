@@ -55,6 +55,10 @@
   <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=driely01&" alt="driely01" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/{driely01}/{driely01}/output/github-contribution-grid-snake-dark.svg)
+
+
+
 <!--
 **Drisse1/Drisse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
