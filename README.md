@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Reactjs**
 - 👨‍💻 All of my projects are available at [https://inquisitive-pithivier-7527fe.netlify.app](https://inquisitive-pithivier-7527fe.netlify.app)
 - 💬 Ask me about **react, css, javaScript and node.js**
-- 📫 How to reach me **elyaagoubi.works@gmail.com**
+- 📫 How to reach me **[Email](elyaagoubi.works@gmail.com)** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -34,6 +34,20 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
+<div>
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=driely01&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=driely01&show_icons=true&theme=onedark">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=driely01&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=driely01&theme=onedark" />
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/driely01/driely01/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+<!--
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/driss_yaagoubi" target="blank">
@@ -49,17 +63,10 @@
 
 <p align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=driely01&show_icons=true&locale=en&layout=compact" alt="driely01" />
-</p>
-<p align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api?username=driely01&show_icons=true&locale=en" alt="driely01" />
   <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=driely01&" alt="driely01" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/driely01/driely01/output/github-contribution-grid-snake-dark.svg)
-
-
-
-<!--
 **Drisse1/Drisse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -72,4 +79,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
