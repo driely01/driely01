@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Reactjs**
 - 👨‍💻 All of my projects are available at [https://inquisitive-pithivier-7527fe.netlify.app](https://inquisitive-pithivier-7527fe.netlify.app)
 - 💬 Ask me about **react, css, javaScript and node.js**
-- 📫 How to reach me **[Email](elyaagoubi.works@gmail.com)** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
+- 📫 How to reach me **elyaagoubi.works@gmail.com** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
