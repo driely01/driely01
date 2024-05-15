@@ -5,10 +5,10 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
 </p>
 
-- 🔭 I’m currently working on **the web project**
-- 🌱 I’m currently learning **Reactjs**
-- 👨‍💻 All of my projects are available at [https://inquisitive-pithivier-7527fe.netlify.app](https://inquisitive-pithivier-7527fe.netlify.app)
-- 💬 Ask me about **react, css, javaScript and node.js**
+- 🔭 I’m currently working on **- a web project -**
+- 🌱 I’m currently learning **[React](https://react.dev/)**
+- 👨‍💻 All of my projects are available at [portfolio](https://inquisitive-pithivier-7527fe.netlify.app)
+- 💬 Ask me about **HTML, css, javaScript and node.js**
 - 📫 How to reach me **elyaagoubi.works@gmail.com** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
 <h3 align="center">Languages and Tools:</h3>
