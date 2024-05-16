@@ -5,7 +5,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
 </p>
 
-- 🔭 I’m currently working on **- a web project -**
+- 🔭 I’m currently working on **- a blog react project - [check it](https://github.com/driely01/Reactjs)**
 - 🌱 I’m currently learning **[React](https://react.dev/)**
 - 👨‍💻 All of my projects are available at [portfolio](https://inquisitive-pithivier-7527fe.netlify.app)
 - 💬 Ask me about **HTML, css, javaScript and node.js**
