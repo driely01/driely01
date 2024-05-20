@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **- blog app - [check it](https://github.com/driely01/Reactjs/tree/main/blog-app)**
-- 🌱 I’m currently learning **[React](https://react.dev/)** and **[tailwindcss](https://tailwindcss.com/)**
+- 🌱 I’m currently learning **[React](https://react.dev/)** and **[nextjs](https://nextjs.org/)**
 - 👨‍💻 All of my projects are available at [portfolio](https://inquisitive-pithivier-7527fe.netlify.app)
 - 💬 Ask me about **HTML, css, javaScript and node.js**
 - 📫 How to reach me **elyaagoubi.works@gmail.com** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
