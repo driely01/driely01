@@ -1,9 +1,11 @@
 <h2 align="center">Hi 👋, I'm Driss</h1>
 <h3 align="center">A passionate graphic desinger and frontend developer</h3>
 
+<!--
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
 </p>
+-->
 
 - 🔭 I’m currently working on **Apple Website** check **[source code](https://github.com/driely01/apple_website)** or **[live](https://driely01.github.io/apple_website/)**
 - 🌱 I’m currently learning **[React.js](https://react.dev/)**
