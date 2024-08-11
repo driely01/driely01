@@ -4,14 +4,13 @@
 <!--
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
+- 👨‍💻 All of my projects are available at [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
 </p>
 -->
 
 - 🔭 I’m currently working on **Three.js Examples** check **[source code](https://github.com/driely01/threejs-examples)** or **[live](https://statuesque-tulumba-6ff071.netlify.app)**
 - 🌱 I’m currently learning **[React.js](https://react.dev/)**
-<!--
-- 👨‍💻 All of my projects are available at [portfolio](https://inquisitive-pithivier-7527fe.netlify.app)
--->
+- 👨‍💻 All of my projects are available at [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
 - 💬 Ask me about **HTML, css, javaScript and node.js**
 - 📫 How to reach me **elyaagoubi.works@gmail.com** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
