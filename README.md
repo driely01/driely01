@@ -7,7 +7,7 @@
 </p>
 -->
 
-- 🔭 I’m currently working on **Apple Website** check **[source code](https://github.com/driely01/apple_website)** or **[live](https://driely01.github.io/apple_website/)**
+- 🔭 I’m currently working on **Three.js Examples** check **[source code](https://github.com/driely01/threejs-examples)** or **[live](https://statuesque-tulumba-6ff071.netlify.app)**
 - 🌱 I’m currently learning **[React.js](https://react.dev/)**
 <!--
 - 👨‍💻 All of my projects are available at [portfolio](https://inquisitive-pithivier-7527fe.netlify.app)
