@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on **Apple Website** check **[source code](https://github.com/driely01/apple_website)** or **[live](https://driely01.github.io/apple_website/)**
 - 🌱 I’m currently learning **[React.js](https://react.dev/)**
+<!--
 - 👨‍💻 All of my projects are available at [portfolio](https://inquisitive-pithivier-7527fe.netlify.app)
+-->
 - 💬 Ask me about **HTML, css, javaScript and node.js**
 - 📫 How to reach me **elyaagoubi.works@gmail.com** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
