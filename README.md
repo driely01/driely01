@@ -1,19 +1,18 @@
 <h2 align="center">Hi 👋, I'm Driss</h1>
-<h3 align="center">A passionate graphic desinger and frontend developer</h3>
+<h3 align="center">frontend developer & graphic desinger</h3>
 
 <!--
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/del-yaag" alt="del-yaag's 42 stats" /></a>
-- 👨‍💻 All of my projects are available at [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
+- Ask me about **HTML, css, javaScript and node.js**
 </p>
 -->
 
-- 🔭 I’m currently working on **Three.js Examples** check **[source code](https://github.com/driely01/threejs-examples)** or **[live](https://statuesque-tulumba-6ff071.netlify.app)**
-- 🌱 I’m currently learning **[React.js](https://react.dev/)**
-- 👨‍💻 All of my projects are available at [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
-- 💬 Ask me about **HTML, css, javaScript and node.js**
-- 📫 How to reach me **elyaagoubi.works@gmail.com** or at **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
+- current project **Three.js Examples** check **[source code](https://github.com/driely01/threejs-examples)** or **[live](https://statuesque-tulumba-6ff071.netlify.app)**
+- [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
+- reach me **elyaagoubi.works@gmail.com**, **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
+<!--
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -36,6 +35,7 @@
   &ensp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
+-->
 
 <div>
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=driely01&layout=compact&theme=onedark" />
