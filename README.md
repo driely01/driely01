@@ -8,7 +8,7 @@
 </p>
 -->
 
-- current project **Three.js Examples** **[source code](https://github.com/driely01/threejs-examples)** or **[live](https://statuesque-tulumba-6ff071.netlify.app)**
+- current project **Three.js Examples** **[source code](https://github.com/driely01/threejs-examples)**, **[live](https://statuesque-tulumba-6ff071.netlify.app)**
 - [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
 - reach me **elyaagoubi.works@gmail.com**, **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
