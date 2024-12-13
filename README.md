@@ -9,7 +9,7 @@
 -->
 
 - current project **Three.js Examples** **[source code](https://github.com/driely01/threejs-examples)**, **[live](https://statuesque-tulumba-6ff071.netlify.app)**
-- also working on **minecraft.js** **[live](https://main--heartfelt-pixie-2b0de5.netlify.app/)**
+- also still working on **Minecraft.js** **[source code](https://github.com/driely01/Minecraft.js)**, **[live](https://main--heartfelt-pixie-2b0de5.netlify.app/)**
 - [portfolio](https://main--spectacular-croissant-ece47c.netlify.app/)
 - reach me **elyaagoubi.works@gmail.com**, **[linkedin](https://www.linkedin.com/in/driss-el-yaagoubi-420654207/)**
 
