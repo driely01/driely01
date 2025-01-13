@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Driss</h1>
-<h3 align="center">frontend developer & graphic desinger</h3>
+<h3 align="center">software engineer & graphic desinger</h3>
 
 <!--
 <p align="center">
